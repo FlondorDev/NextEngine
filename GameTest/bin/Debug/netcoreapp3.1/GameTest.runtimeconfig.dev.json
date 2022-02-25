@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/flondor/.dotnet/store/|arch|/|tfm|",
+      "/Users/flondor/.nuget/packages"
+    ]
+  }
+}

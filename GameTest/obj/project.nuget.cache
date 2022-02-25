@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "SyxG4s0sGK8AhZaUOVnhJMQqifCNf8ukFuIxWUtQQESXHXPiBsTffXmOstQfU6/Rbe4LSN+Sgg4sneqUxpKXVQ==",
+  "success": true,
+  "projectFilePath": "/Users/flondor/repo/Next/NextEngine/GameTest/GameTest.csproj",
+  "expectedPackageFiles": [
+    "/Users/flondor/.nuget/packages/monogame.content.builder.task/3.8.0.1641/monogame.content.builder.task.3.8.0.1641.nupkg.sha512",
+    "/Users/flondor/.nuget/packages/monogame.framework.desktopgl/3.8.0.1641/monogame.framework.desktopgl.3.8.0.1641.nupkg.sha512"
+  ],
+  "logs": []
+}

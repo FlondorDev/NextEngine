@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>/Users/flondor/Projects/Then_he_waddled_away/Then_he_waddled_away/Content/ball.png</File>
+    <File>/Users/flondor/Projects/Then_he_waddled_away/Then_he_waddled_away/Content/Corsa/DX/CORSA-0.png</File>
+    <File>/Users/flondor/Projects/Then_he_waddled_away/Then_he_waddled_away/Content/Corsa/DX/CORSA-1.png</File>
+    <File>/Users/flondor/Projects/Then_he_waddled_away/Then_he_waddled_away/Content/Corsa/DX/CORSA-10.png</File>
+    <File>/Users/flondor/Projects/Then_he_waddled_away/Then_he_waddled_away/Content/Corsa/DX/CORSA-11.png</File>
+    <File>/Users/flondor/Projects/Then_he_waddled_away/Then_he_waddled_away/Content/Corsa/DX/CORSA-2.png</File>
+    <File>/Users/flondor/Projects/Then_he_waddled_away/Then_he_waddled_away/Content/Corsa/DX/CORSA-3.png</File>
+    <File>/Users/flondor/Projects/Then_he_waddled_away/Then_he_waddled_away/Content/Corsa/DX/CORSA-4.png</File>
+    <File>/Users/flondor/Projects/Then_he_waddled_away/Then_he_waddled_away/Content/Corsa/DX/CORSA-5.png</File>
+    <File>/Users/flondor/Projects/Then_he_waddled_away/Then_he_waddled_away/Content/Corsa/DX/CORSA-6.png</File>
+    <File>/Users/flondor/Projects/Then_he_waddled_away/Then_he_waddled_away/Content/Corsa/DX/CORSA-7.png</File>
+    <File>/Users/flondor/Projects/Then_he_waddled_away/Then_he_waddled_away/Content/Corsa/DX/CORSA-8.png</File>
+    <File>/Users/flondor/Projects/Then_he_waddled_away/Then_he_waddled_away/Content/Corsa/DX/CORSA-9.png</File>
+    <File>/Users/flondor/Projects/Then_he_waddled_away/Then_he_waddled_away/Content/Corsa/SX/CORSA-0.png</File>
+    <File>/Users/flondor/Projects/Then_he_waddled_away/Then_he_waddled_away/Content/Corsa/SX/CORSA-1.png</File>
+    <File>/Users/flondor/Projects/Then_he_waddled_away/Then_he_waddled_away/Content/Corsa/SX/CORSA-10.png</File>
+    <File>/Users/flondor/Projects/Then_he_waddled_away/Then_he_waddled_away/Content/Corsa/SX/CORSA-11.png</File>
+    <File>/Users/flondor/Projects/Then_he_waddled_away/Then_he_waddled_away/Content/Corsa/SX/CORSA-2.png</File>
+    <File>/Users/flondor/Projects/Then_he_waddled_away/Then_he_waddled_away/Content/Corsa/SX/CORSA-3.png</File>
+    <File>/Users/flondor/Projects/Then_he_waddled_away/Then_he_waddled_away/Content/Corsa/SX/CORSA-4.png</File>
+    <File>/Users/flondor/Projects/Then_he_waddled_away/Then_he_waddled_away/Content/Corsa/SX/CORSA-5.png</File>
+    <File>/Users/flondor/Projects/Then_he_waddled_away/Then_he_waddled_away/Content/Corsa/SX/CORSA-6.png</File>
+    <File>/Users/flondor/Projects/Then_he_waddled_away/Then_he_waddled_away/Content/Corsa/SX/CORSA-7.png</File>
+    <File>/Users/flondor/Projects/Then_he_waddled_away/Then_he_waddled_away/Content/Corsa/SX/CORSA-8.png</File>
+    <File>/Users/flondor/Projects/Then_he_waddled_away/Then_he_waddled_away/Content/Corsa/SX/CORSA-9.png</File>
+    <File>/Users/flondor/Projects/Then_he_waddled_away/Then_he_waddled_away/Content/square.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
